@@ -1,4 +1,4 @@
-# email-spam-classifier-new
+# SMS-spam-classifier-new
 # Objective: 
    The main goal of this project is to provide a tool that can automatically classify SMS messages as either spam or not spam (ham).
 # Data: 
